@@ -1,0 +1,937 @@
+[%] :   0%|                                                                                                                                                                 | 0.00/9.00 [00:00<?, ?it/s][%] :  11%|█████████████████                                                                                                                                         | 1.00/9.00 [00:00<00:02, 3.93it/s][%] :  11%|█████████████████                                                                                                                                         | 1.00/9.00 [00:00<00:02, 3.93it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABCE_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABCE_hits.M6MM.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABCE_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABCE_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/9.00 [00:00<?, ?it/s][%] :  11%|█████████████████                                                                                                                                         | 1.00/9.00 [00:00<00:01, 6.44it/s][%] :  11%|█████████████████                                                                                                                                         | 1.00/9.00 [00:00<00:01, 6.42it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABCE_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABCE_hits.Marteilia_cochillia_DB6.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABCE_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABCE_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/9.00 [00:00<?, ?it/s][%] :  11%|█████████████████                                                                                                                                         | 1.00/9.00 [00:00<00:01, 7.77it/s][%] :  11%|█████████████████                                                                                                                                         | 1.00/9.00 [00:00<00:01, 7.74it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABCE_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABCE_hits.Marteilia_pararefringens_DB3.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABCE_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABCE_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/9.00 [00:00<?, ?it/s][%] :  11%|█████████████████                                                                                                                                         | 1.00/9.00 [00:00<00:01, 7.26it/s][%] :  11%|█████████████████                                                                                                                                         | 1.00/9.00 [00:00<00:01, 7.23it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABCE_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABCE_hits.Marteilia_pararefringens_DB4.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABCE_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABCE_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/9.00 [00:00<?, ?it/s][%] :  11%|█████████████████                                                                                                                                         | 1.00/9.00 [00:00<00:01, 6.29it/s][%] :  11%|█████████████████                                                                                                                                         | 1.00/9.00 [00:00<00:01, 6.27it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABCE_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABCE_hits.Marteilia_pararefringens_M18.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABCE_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABCE_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/9.00 [00:00<?, ?it/s][%] :  11%|█████████████████                                                                                                                                         | 1.00/9.00 [00:00<00:00, 9.80it/s][%] :  11%|█████████████████                                                                                                                                         | 1.00/9.00 [00:00<00:00, 9.75it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABCE_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABCE_hits.Marteilia_pararefringens_S151.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABCE_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABCE_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/9.00 [00:00<?, ?it/s][%] :  11%|█████████████████                                                                                                                                         | 1.00/9.00 [00:00<00:00, 8.48it/s][%] :  11%|█████████████████                                                                                                                                         | 1.00/9.00 [00:00<00:00, 8.44it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABCE_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABCE_hits.Mikrocytos_mackini.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABCE_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABCE_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/9.00 [00:00<?, ?it/s][%] :  11%|█████████████████                                                                                                                                         | 1.00/9.00 [00:00<00:00, 13.0it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABCE_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABCE_hits.Paramikrocytos_canceri_2014.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABCE_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABCE_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/9.00 [00:00<?, ?it/s][%] :  11%|█████████████████                                                                                                                                         | 1.00/9.00 [00:00<00:00, 11.7it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABCE_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABCE_hits.Paramikrocytos_canceri_2018.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABCE_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABCE_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] : 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1.00/1.00 [00:00<00:00, 19.0it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABT1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABT1_hits.M6MM.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABT1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABT1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] : 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1.00/1.00 [00:00<00:00, 68.2it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABT1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABT1_hits.Marteilia_cochillia_DB6.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABT1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABT1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] : 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1.00/1.00 [00:00<00:00, 54.3it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABT1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABT1_hits.Marteilia_pararefringens_DB3.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABT1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABT1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] : 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1.00/1.00 [00:00<00:00, 57.7it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABT1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABT1_hits.Marteilia_pararefringens_DB4.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABT1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABT1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] : 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1.00/1.00 [00:00<00:00, 44.9it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABT1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABT1_hits.Marteilia_pararefringens_M18.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABT1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABT1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] : 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1.00/1.00 [00:00<00:00, 68.5it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABT1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABT1_hits.Marteilia_pararefringens_S151.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABT1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABT1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] : 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1.00/1.00 [00:00<00:00, 49.6it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABT1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABT1_hits.Mikrocytos_mackini.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABT1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABT1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] : 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1.00/1.00 [00:00<00:00, 99.4it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABT1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABT1_hits.Paramikrocytos_canceri_2014.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABT1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABT1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] : 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1.00/1.00 [00:00<00:00, 99.9it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABT1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABT1_hits.Paramikrocytos_canceri_2018.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABT1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABT1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] : 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1.00/1.00 [00:00<00:00, 19.8it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AGX_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AGX_hits.M6MM.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AGX_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AGX_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] : 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1.00/1.00 [00:00<00:00, 68.5it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AGX_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AGX_hits.Marteilia_cochillia_DB6.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AGX_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AGX_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] : 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1.00/1.00 [00:00<00:00, 52.0it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AGX_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AGX_hits.Marteilia_pararefringens_DB3.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AGX_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AGX_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] : 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1.00/1.00 [00:00<00:00, 58.0it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AGX_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AGX_hits.Marteilia_pararefringens_DB4.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AGX_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AGX_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] : 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1.00/1.00 [00:00<00:00, 45.9it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AGX_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AGX_hits.Marteilia_pararefringens_M18.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AGX_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AGX_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] : 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1.00/1.00 [00:00<00:00, 62.3it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AGX_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AGX_hits.Marteilia_pararefringens_S151.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AGX_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AGX_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] : 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1.00/1.00 [00:00<00:00, 48.1it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AGX_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AGX_hits.Mikrocytos_mackini.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AGX_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AGX_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] : 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1.00/1.00 [00:00<00:00, 106it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AGX_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AGX_hits.Paramikrocytos_canceri_2014.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AGX_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AGX_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] : 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1.00/1.00 [00:00<00:00, 103it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AGX_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AGX_hits.Paramikrocytos_canceri_2018.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AGX_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AGX_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] : 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1.00/1.00 [00:00<00:00, 20.3it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ALG11_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ALG11_hits.M6MM.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ALG11_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ALG11_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] : 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1.00/1.00 [00:00<00:00, 65.3it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ALG11_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ALG11_hits.Marteilia_cochillia_DB6.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ALG11_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ALG11_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] : 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1.00/1.00 [00:00<00:00, 48.8it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ALG11_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ALG11_hits.Marteilia_pararefringens_DB3.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ALG11_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ALG11_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] : 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1.00/1.00 [00:00<00:00, 56.2it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ALG11_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ALG11_hits.Marteilia_pararefringens_DB4.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ALG11_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ALG11_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] : 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1.00/1.00 [00:00<00:00, 43.8it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ALG11_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ALG11_hits.Marteilia_pararefringens_M18.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ALG11_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ALG11_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] : 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1.00/1.00 [00:00<00:00, 68.1it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ALG11_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ALG11_hits.Marteilia_pararefringens_S151.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ALG11_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ALG11_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] : 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1.00/1.00 [00:00<00:00, 50.2it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ALG11_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ALG11_hits.Mikrocytos_mackini.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ALG11_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ALG11_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] : 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1.00/1.00 [00:00<00:00, 109it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ALG11_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ALG11_hits.Paramikrocytos_canceri_2014.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ALG11_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ALG11_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] : 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1.00/1.00 [00:00<00:00, 101it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ALG11_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ALG11_hits.Paramikrocytos_canceri_2018.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ALG11_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ALG11_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/14.0 [00:00<?, ?it/s][%] :   7%|███████████                                                                                                                                               | 1.00/14.0 [00:00<00:00, 20.3it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap1m1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap1m1_hits.M6MM.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap1m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap1m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/14.0 [00:00<?, ?it/s][%] :   7%|███████████                                                                                                                                               | 1.00/14.0 [00:00<00:00, 68.3it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap1m1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap1m1_hits.Marteilia_cochillia_DB6.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap1m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap1m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/14.0 [00:00<?, ?it/s][%] :   7%|███████████                                                                                                                                               | 1.00/14.0 [00:00<00:00, 53.8it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap1m1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap1m1_hits.Marteilia_pararefringens_DB3.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap1m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap1m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/14.0 [00:00<?, ?it/s][%] :   7%|███████████                                                                                                                                               | 1.00/14.0 [00:00<00:00, 60.3it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap1m1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap1m1_hits.Marteilia_pararefringens_DB4.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap1m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap1m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/14.0 [00:00<?, ?it/s][%] :   7%|███████████                                                                                                                                               | 1.00/14.0 [00:00<00:00, 47.5it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap1m1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap1m1_hits.Marteilia_pararefringens_M18.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap1m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap1m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/14.0 [00:00<?, ?it/s][%] :   7%|███████████                                                                                                                                               | 1.00/14.0 [00:00<00:00, 69.3it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap1m1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap1m1_hits.Marteilia_pararefringens_S151.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap1m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap1m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/14.0 [00:00<?, ?it/s][%] :   7%|███████████                                                                                                                                               | 1.00/14.0 [00:00<00:00, 51.4it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap1m1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap1m1_hits.Mikrocytos_mackini.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap1m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap1m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/14.0 [00:00<?, ?it/s][%] :   7%|███████████                                                                                                                                                | 1.00/14.0 [00:00<00:00, 102it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap1m1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap1m1_hits.Paramikrocytos_canceri_2014.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap1m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap1m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/14.0 [00:00<?, ?it/s][%] :   7%|███████████                                                                                                                                                | 1.00/14.0 [00:00<00:00, 105it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap1m1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap1m1_hits.Paramikrocytos_canceri_2018.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap1m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap1m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/10.0 [00:00<?, ?it/s][%] :  10%|███████████████▍                                                                                                                                          | 1.00/10.0 [00:00<00:00, 20.3it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP1S2_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP1S2_hits.M6MM.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP1S2_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP1S2_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/10.0 [00:00<?, ?it/s][%] :  10%|███████████████▍                                                                                                                                          | 1.00/10.0 [00:00<00:00, 66.5it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP1S2_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP1S2_hits.Marteilia_cochillia_DB6.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP1S2_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP1S2_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/10.0 [00:00<?, ?it/s][%] :  10%|███████████████▍                                                                                                                                          | 1.00/10.0 [00:00<00:00, 49.3it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP1S2_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP1S2_hits.Marteilia_pararefringens_DB3.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP1S2_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP1S2_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/10.0 [00:00<?, ?it/s][%] :  10%|███████████████▍                                                                                                                                          | 1.00/10.0 [00:00<00:00, 56.4it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP1S2_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP1S2_hits.Marteilia_pararefringens_DB4.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP1S2_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP1S2_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/10.0 [00:00<?, ?it/s][%] :  10%|███████████████▍                                                                                                                                          | 1.00/10.0 [00:00<00:00, 45.6it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP1S2_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP1S2_hits.Marteilia_pararefringens_M18.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP1S2_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP1S2_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/10.0 [00:00<?, ?it/s][%] :  10%|███████████████▍                                                                                                                                          | 1.00/10.0 [00:00<00:00, 66.1it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP1S2_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP1S2_hits.Marteilia_pararefringens_S151.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP1S2_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP1S2_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/10.0 [00:00<?, ?it/s][%] :  10%|███████████████▍                                                                                                                                          | 1.00/10.0 [00:00<00:00, 48.3it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP1S2_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP1S2_hits.Mikrocytos_mackini.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP1S2_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP1S2_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/10.0 [00:00<?, ?it/s][%] :  10%|███████████████▌                                                                                                                                           | 1.00/10.0 [00:00<00:00, 103it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP1S2_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP1S2_hits.Paramikrocytos_canceri_2014.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP1S2_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP1S2_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/10.0 [00:00<?, ?it/s][%] :  10%|███████████████▌                                                                                                                                           | 1.00/10.0 [00:00<00:00, 107it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP1S2_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP1S2_hits.Paramikrocytos_canceri_2018.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP1S2_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP1S2_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/14.0 [00:00<?, ?it/s][%] :   7%|███████████                                                                                                                                               | 1.00/14.0 [00:00<00:00, 19.8it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap2m1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap2m1_hits.M6MM.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap2m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap2m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/14.0 [00:00<?, ?it/s][%] :   7%|███████████                                                                                                                                               | 1.00/14.0 [00:00<00:00, 69.8it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap2m1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap2m1_hits.Marteilia_cochillia_DB6.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap2m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap2m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/14.0 [00:00<?, ?it/s][%] :   7%|███████████                                                                                                                                               | 1.00/14.0 [00:00<00:00, 52.6it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap2m1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap2m1_hits.Marteilia_pararefringens_DB3.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap2m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap2m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/14.0 [00:00<?, ?it/s][%] :   7%|███████████                                                                                                                                               | 1.00/14.0 [00:00<00:00, 57.0it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap2m1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap2m1_hits.Marteilia_pararefringens_DB4.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap2m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap2m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/14.0 [00:00<?, ?it/s][%] :   7%|███████████                                                                                                                                               | 1.00/14.0 [00:00<00:00, 44.2it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap2m1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap2m1_hits.Marteilia_pararefringens_M18.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap2m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap2m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/14.0 [00:00<?, ?it/s][%] :   7%|███████████                                                                                                                                               | 1.00/14.0 [00:00<00:00, 64.8it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap2m1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap2m1_hits.Marteilia_pararefringens_S151.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap2m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap2m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/14.0 [00:00<?, ?it/s][%] :   7%|███████████                                                                                                                                               | 1.00/14.0 [00:00<00:00, 48.0it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap2m1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap2m1_hits.Mikrocytos_mackini.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap2m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap2m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/14.0 [00:00<?, ?it/s][%] :   7%|███████████                                                                                                                                               | 1.00/14.0 [00:00<00:00, 95.8it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap2m1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap2m1_hits.Paramikrocytos_canceri_2014.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap2m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap2m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/14.0 [00:00<?, ?it/s][%] :   7%|███████████                                                                                                                                               | 1.00/14.0 [00:00<00:00, 92.5it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap2m1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap2m1_hits.Paramikrocytos_canceri_2018.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap2m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap2m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/6.00 [00:00<?, ?it/s][%] :  17%|█████████████████████████▋                                                                                                                                | 1.00/6.00 [00:00<00:00, 19.7it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap3m1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap3m1_hits.M6MM.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap3m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap3m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/6.00 [00:00<?, ?it/s][%] :  17%|█████████████████████████▋                                                                                                                                | 1.00/6.00 [00:00<00:00, 69.1it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap3m1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap3m1_hits.Marteilia_cochillia_DB6.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap3m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap3m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/6.00 [00:00<?, ?it/s][%] :  17%|█████████████████████████▋                                                                                                                                | 1.00/6.00 [00:00<00:00, 53.2it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap3m1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap3m1_hits.Marteilia_pararefringens_DB3.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap3m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap3m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/6.00 [00:00<?, ?it/s][%] :  17%|█████████████████████████▋                                                                                                                                | 1.00/6.00 [00:00<00:00, 58.1it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap3m1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap3m1_hits.Marteilia_pararefringens_DB4.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap3m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap3m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/6.00 [00:00<?, ?it/s][%] :  17%|█████████████████████████▋                                                                                                                                | 1.00/6.00 [00:00<00:00, 47.2it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap3m1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap3m1_hits.Marteilia_pararefringens_M18.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap3m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap3m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/6.00 [00:00<?, ?it/s][%] :  17%|█████████████████████████▋                                                                                                                                | 1.00/6.00 [00:00<00:00, 66.5it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap3m1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap3m1_hits.Marteilia_pararefringens_S151.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap3m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap3m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/6.00 [00:00<?, ?it/s][%] :  17%|█████████████████████████▋                                                                                                                                | 1.00/6.00 [00:00<00:00, 48.4it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap3m1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap3m1_hits.Mikrocytos_mackini.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap3m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap3m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/6.00 [00:00<?, ?it/s][%] :  17%|█████████████████████████▋                                                                                                                                | 1.00/6.00 [00:00<00:00, 95.0it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap3m1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap3m1_hits.Paramikrocytos_canceri_2014.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap3m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap3m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/6.00 [00:00<?, ?it/s][%] :  17%|█████████████████████████▊                                                                                                                                 | 1.00/6.00 [00:00<00:00, 100it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap3m1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap3m1_hits.Paramikrocytos_canceri_2018.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap3m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap3m1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/4.00 [00:00<?, ?it/s][%] :  25%|██████████████████████████████████████▌                                                                                                                   | 1.00/4.00 [00:00<00:00, 20.2it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP3S1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP3S1_hits.M6MM.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP3S1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP3S1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/4.00 [00:00<?, ?it/s][%] :  25%|██████████████████████████████████████▌                                                                                                                   | 1.00/4.00 [00:00<00:00, 63.7it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP3S1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP3S1_hits.Marteilia_cochillia_DB6.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP3S1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP3S1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/4.00 [00:00<?, ?it/s][%] :  25%|██████████████████████████████████████▌                                                                                                                   | 1.00/4.00 [00:00<00:00, 51.1it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP3S1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP3S1_hits.Marteilia_pararefringens_DB3.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP3S1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP3S1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/4.00 [00:00<?, ?it/s][%] :  25%|██████████████████████████████████████▌                                                                                                                   | 1.00/4.00 [00:00<00:00, 57.5it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP3S1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP3S1_hits.Marteilia_pararefringens_DB4.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP3S1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP3S1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/4.00 [00:00<?, ?it/s][%] :  25%|██████████████████████████████████████▌                                                                                                                   | 1.00/4.00 [00:00<00:00, 45.8it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP3S1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP3S1_hits.Marteilia_pararefringens_M18.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP3S1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP3S1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/4.00 [00:00<?, ?it/s][%] :  25%|██████████████████████████████████████▌                                                                                                                   | 1.00/4.00 [00:00<00:00, 70.7it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP3S1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP3S1_hits.Marteilia_pararefringens_S151.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP3S1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP3S1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/4.00 [00:00<?, ?it/s][%] :  25%|██████████████████████████████████████▌                                                                                                                   | 1.00/4.00 [00:00<00:00, 48.4it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP3S1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP3S1_hits.Mikrocytos_mackini.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP3S1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP3S1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/4.00 [00:00<?, ?it/s][%] :  25%|██████████████████████████████████████▌                                                                                                                   | 1.00/4.00 [00:00<00:00, 97.1it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP3S1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP3S1_hits.Paramikrocytos_canceri_2014.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP3S1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP3S1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/4.00 [00:00<?, ?it/s][%] :  25%|██████████████████████████████████████▊                                                                                                                    | 1.00/4.00 [00:00<00:00, 102it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP3S1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP3S1_hits.Paramikrocytos_canceri_2018.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP3S1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP3S1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/15.0 [00:00<?, ?it/s][%] :   7%|██████████▎                                                                                                                                               | 1.00/15.0 [00:00<00:00, 18.9it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4M_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4M_hits.M6MM.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4M_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4M_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/15.0 [00:00<?, ?it/s][%] :   7%|██████████▎                                                                                                                                               | 1.00/15.0 [00:00<00:00, 67.1it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4M_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4M_hits.Marteilia_cochillia_DB6.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4M_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4M_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/15.0 [00:00<?, ?it/s][%] :   7%|██████████▎                                                                                                                                               | 1.00/15.0 [00:00<00:00, 53.4it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4M_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4M_hits.Marteilia_pararefringens_DB3.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4M_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4M_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/15.0 [00:00<?, ?it/s][%] :   7%|██████████▎                                                                                                                                               | 1.00/15.0 [00:00<00:00, 56.5it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4M_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4M_hits.Marteilia_pararefringens_DB4.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4M_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4M_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/15.0 [00:00<?, ?it/s][%] :   7%|██████████▎                                                                                                                                               | 1.00/15.0 [00:00<00:00, 46.2it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4M_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4M_hits.Marteilia_pararefringens_M18.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4M_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4M_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/15.0 [00:00<?, ?it/s][%] :   7%|██████████▎                                                                                                                                               | 1.00/15.0 [00:00<00:00, 68.9it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4M_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4M_hits.Marteilia_pararefringens_S151.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4M_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4M_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/15.0 [00:00<?, ?it/s][%] :   7%|██████████▎                                                                                                                                               | 1.00/15.0 [00:00<00:00, 50.6it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4M_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4M_hits.Mikrocytos_mackini.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4M_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4M_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/15.0 [00:00<?, ?it/s][%] :   7%|██████████▎                                                                                                                                                | 1.00/15.0 [00:00<00:00, 109it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4M_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4M_hits.Paramikrocytos_canceri_2014.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4M_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4M_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/15.0 [00:00<?, ?it/s][%] :   7%|██████████▎                                                                                                                                                | 1.00/15.0 [00:00<00:00, 101it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4M_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4M_hits.Paramikrocytos_canceri_2018.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4M_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4M_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/8.00 [00:00<?, ?it/s][%] :  12%|███████████████████▎                                                                                                                                      | 1.00/8.00 [00:00<00:00, 20.0it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4S1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4S1_hits.M6MM.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4S1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4S1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/8.00 [00:00<?, ?it/s][%] :  12%|███████████████████▎                                                                                                                                      | 1.00/8.00 [00:00<00:00, 65.2it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4S1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4S1_hits.Marteilia_cochillia_DB6.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4S1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4S1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/8.00 [00:00<?, ?it/s][%] :  12%|███████████████████▎                                                                                                                                      | 1.00/8.00 [00:00<00:00, 50.3it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4S1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4S1_hits.Marteilia_pararefringens_DB3.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4S1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4S1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/8.00 [00:00<?, ?it/s][%] :  12%|███████████████████▎                                                                                                                                      | 1.00/8.00 [00:00<00:00, 56.9it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4S1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4S1_hits.Marteilia_pararefringens_DB4.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4S1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4S1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/8.00 [00:00<?, ?it/s][%] :  12%|███████████████████▎                                                                                                                                      | 1.00/8.00 [00:00<00:00, 46.1it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4S1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4S1_hits.Marteilia_pararefringens_M18.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4S1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4S1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/8.00 [00:00<?, ?it/s][%] :  12%|███████████████████▎                                                                                                                                      | 1.00/8.00 [00:00<00:00, 70.2it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4S1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4S1_hits.Marteilia_pararefringens_S151.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4S1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4S1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/8.00 [00:00<?, ?it/s][%] :  12%|███████████████████▎                                                                                                                                      | 1.00/8.00 [00:00<00:00, 49.0it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4S1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4S1_hits.Mikrocytos_mackini.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4S1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4S1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/8.00 [00:00<?, ?it/s][%] :  12%|███████████████████▎                                                                                                                                      | 1.00/8.00 [00:00<00:00, 94.9it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4S1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4S1_hits.Paramikrocytos_canceri_2014.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4S1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4S1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/8.00 [00:00<?, ?it/s][%] :  12%|███████████████████▍                                                                                                                                       | 1.00/8.00 [00:00<00:00, 100it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4S1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4S1_hits.Paramikrocytos_canceri_2018.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4S1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4S1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/13.0 [00:00<?, ?it/s][%] :   8%|███████████▊                                                                                                                                              | 1.00/13.0 [00:00<00:00, 20.2it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/APBLC_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/APBLC_hits.M6MM.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/APBLC_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/APBLC_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/13.0 [00:00<?, ?it/s][%] :   8%|███████████▊                                                                                                                                              | 1.00/13.0 [00:00<00:00, 66.2it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/APBLC_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/APBLC_hits.Marteilia_cochillia_DB6.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/APBLC_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/APBLC_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/13.0 [00:00<?, ?it/s][%] :   8%|███████████▊                                                                                                                                              | 1.00/13.0 [00:00<00:00, 52.5it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/APBLC_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/APBLC_hits.Marteilia_pararefringens_DB3.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/APBLC_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/APBLC_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/13.0 [00:00<?, ?it/s][%] :   8%|███████████▊                                                                                                                                              | 1.00/13.0 [00:00<00:00, 56.7it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/APBLC_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/APBLC_hits.Marteilia_pararefringens_DB4.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/APBLC_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/APBLC_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/13.0 [00:00<?, ?it/s][%] :   8%|███████████▊                                                                                                                                              | 1.00/13.0 [00:00<00:00, 46.1it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/APBLC_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/APBLC_hits.Marteilia_pararefringens_M18.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/APBLC_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/APBLC_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/13.0 [00:00<?, ?it/s][%] :   8%|███████████▊                                                                                                                                              | 1.00/13.0 [00:00<00:00, 66.1it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/APBLC_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/APBLC_hits.Marteilia_pararefringens_S151.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/APBLC_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/APBLC_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/13.0 [00:00<?, ?it/s][%] :   8%|███████████▊                                                                                                                                              | 1.00/13.0 [00:00<00:00, 49.4it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/APBLC_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/APBLC_hits.Mikrocytos_mackini.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/APBLC_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/APBLC_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/13.0 [00:00<?, ?it/s][%] :   8%|███████████▊                                                                                                                                              | 1.00/13.0 [00:00<00:00, 99.6it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/APBLC_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/APBLC_hits.Paramikrocytos_canceri_2014.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/APBLC_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/APBLC_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/13.0 [00:00<?, ?it/s][%] :   8%|███████████▊                                                                                                                                              | 1.00/13.0 [00:00<00:00, 99.5it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/APBLC_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/APBLC_hits.Paramikrocytos_canceri_2018.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/APBLC_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/APBLC_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/37.0 [00:00<?, ?it/s][%] :   3%|████▏                                                                                                                                                     | 1.00/37.0 [00:00<00:01, 20.5it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARL6_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARL6_hits.M6MM.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARL6_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARL6_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/37.0 [00:00<?, ?it/s][%] :   3%|████▏                                                                                                                                                     | 1.00/37.0 [00:00<00:00, 70.1it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARL6_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARL6_hits.Marteilia_cochillia_DB6.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARL6_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARL6_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/37.0 [00:00<?, ?it/s][%] :   3%|████▏                                                                                                                                                     | 1.00/37.0 [00:00<00:00, 53.6it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARL6_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARL6_hits.Marteilia_pararefringens_DB3.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARL6_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARL6_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/37.0 [00:00<?, ?it/s][%] :   3%|████▏                                                                                                                                                     | 1.00/37.0 [00:00<00:00, 57.2it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARL6_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARL6_hits.Marteilia_pararefringens_DB4.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARL6_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARL6_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/37.0 [00:00<?, ?it/s][%] :   3%|████▏                                                                                                                                                     | 1.00/37.0 [00:00<00:00, 45.9it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARL6_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARL6_hits.Marteilia_pararefringens_M18.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARL6_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARL6_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/37.0 [00:00<?, ?it/s][%] :   3%|████▏                                                                                                                                                     | 1.00/37.0 [00:00<00:00, 66.9it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARL6_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARL6_hits.Marteilia_pararefringens_S151.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARL6_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARL6_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/37.0 [00:00<?, ?it/s][%] :   3%|████▏                                                                                                                                                     | 1.00/37.0 [00:00<00:00, 48.2it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARL6_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARL6_hits.Mikrocytos_mackini.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARL6_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARL6_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/37.0 [00:00<?, ?it/s][%] :   3%|████▏                                                                                                                                                      | 1.00/37.0 [00:00<00:00, 107it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARL6_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARL6_hits.Paramikrocytos_canceri_2014.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARL6_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARL6_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/37.0 [00:00<?, ?it/s][%] :   3%|████▏                                                                                                                                                      | 1.00/37.0 [00:00<00:00, 104it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARL6_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARL6_hits.Paramikrocytos_canceri_2018.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARL6_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARL6_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/41.0 [00:00<?, ?it/s][%] :   2%|███▊                                                                                                                                                      | 1.00/41.0 [00:00<00:02, 19.9it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP2_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP2_hits.M6MM.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP2_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP2_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/41.0 [00:00<?, ?it/s][%] :   2%|███▊                                                                                                                                                      | 1.00/41.0 [00:00<00:00, 68.6it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP2_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP2_hits.Marteilia_cochillia_DB6.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP2_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP2_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/41.0 [00:00<?, ?it/s][%] :   2%|███▊                                                                                                                                                      | 1.00/41.0 [00:00<00:00, 53.7it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP2_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP2_hits.Marteilia_pararefringens_DB3.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP2_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP2_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/41.0 [00:00<?, ?it/s][%] :   2%|███▊                                                                                                                                                      | 1.00/41.0 [00:00<00:00, 58.0it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP2_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP2_hits.Marteilia_pararefringens_DB4.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP2_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP2_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/41.0 [00:00<?, ?it/s][%] :   2%|███▊                                                                                                                                                      | 1.00/41.0 [00:00<00:00, 44.0it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP2_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP2_hits.Marteilia_pararefringens_M18.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP2_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP2_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/41.0 [00:00<?, ?it/s][%] :   2%|███▊                                                                                                                                                      | 1.00/41.0 [00:00<00:00, 63.5it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP2_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP2_hits.Marteilia_pararefringens_S151.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP2_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP2_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/41.0 [00:00<?, ?it/s][%] :   2%|███▊                                                                                                                                                      | 1.00/41.0 [00:00<00:00, 51.2it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP2_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP2_hits.Mikrocytos_mackini.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP2_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP2_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/41.0 [00:00<?, ?it/s][%] :   2%|███▊                                                                                                                                                      | 1.00/41.0 [00:00<00:00, 96.2it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP2_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP2_hits.Paramikrocytos_canceri_2014.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP2_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP2_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/41.0 [00:00<?, ?it/s][%] :   2%|███▊                                                                                                                                                      | 1.00/41.0 [00:00<00:00, 98.0it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP2_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP2_hits.Paramikrocytos_canceri_2018.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP2_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP2_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/41.0 [00:00<?, ?it/s][%] :   2%|███▊                                                                                                                                                      | 1.00/41.0 [00:00<00:01, 20.3it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP3_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP3_hits.M6MM.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP3_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP3_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/41.0 [00:00<?, ?it/s][%] :   2%|███▊                                                                                                                                                      | 1.00/41.0 [00:00<00:00, 67.4it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP3_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP3_hits.Marteilia_cochillia_DB6.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP3_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP3_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/41.0 [00:00<?, ?it/s][%] :   2%|███▊                                                                                                                                                      | 1.00/41.0 [00:00<00:00, 48.8it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP3_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP3_hits.Marteilia_pararefringens_DB3.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP3_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP3_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/41.0 [00:00<?, ?it/s][%] :   2%|███▊                                                                                                                                                      | 1.00/41.0 [00:00<00:00, 56.8it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP3_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP3_hits.Marteilia_pararefringens_DB4.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP3_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP3_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/41.0 [00:00<?, ?it/s][%] :   2%|███▊                                                                                                                                                      | 1.00/41.0 [00:00<00:00, 44.4it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP3_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP3_hits.Marteilia_pararefringens_M18.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP3_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP3_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/41.0 [00:00<?, ?it/s][%] :   2%|███▊                                                                                                                                                      | 1.00/41.0 [00:00<00:00, 64.7it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP3_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP3_hits.Marteilia_pararefringens_S151.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP3_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP3_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/41.0 [00:00<?, ?it/s][%] :   2%|███▊                                                                                                                                                      | 1.00/41.0 [00:00<00:00, 48.0it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP3_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP3_hits.Mikrocytos_mackini.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP3_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP3_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/41.0 [00:00<?, ?it/s][%] :   2%|███▊                                                                                                                                                       | 1.00/41.0 [00:00<00:00, 109it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP3_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP3_hits.Paramikrocytos_canceri_2014.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP3_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP3_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/41.0 [00:00<?, ?it/s][%] :   2%|███▊                                                                                                                                                       | 1.00/41.0 [00:00<00:00, 101it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP3_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP3_hits.Paramikrocytos_canceri_2018.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP3_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP3_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/4.00 [00:00<?, ?it/s][%] :  25%|██████████████████████████████████████▌                                                                                                                   | 1.00/4.00 [00:00<00:00, 19.6it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc3_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc3_hits.M6MM.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc3_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc3_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/4.00 [00:00<?, ?it/s][%] :  25%|██████████████████████████████████████▌                                                                                                                   | 1.00/4.00 [00:00<00:00, 70.5it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc3_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc3_hits.Marteilia_cochillia_DB6.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc3_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc3_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/4.00 [00:00<?, ?it/s][%] :  25%|██████████████████████████████████████▌                                                                                                                   | 1.00/4.00 [00:00<00:00, 52.7it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc3_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc3_hits.Marteilia_pararefringens_DB3.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc3_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc3_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/4.00 [00:00<?, ?it/s][%] :  25%|██████████████████████████████████████▌                                                                                                                   | 1.00/4.00 [00:00<00:00, 55.9it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc3_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc3_hits.Marteilia_pararefringens_DB4.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc3_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc3_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/4.00 [00:00<?, ?it/s][%] :  25%|██████████████████████████████████████▌                                                                                                                   | 1.00/4.00 [00:00<00:00, 45.9it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc3_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc3_hits.Marteilia_pararefringens_M18.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc3_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc3_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/4.00 [00:00<?, ?it/s][%] :  25%|██████████████████████████████████████▌                                                                                                                   | 1.00/4.00 [00:00<00:00, 68.2it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc3_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc3_hits.Marteilia_pararefringens_S151.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc3_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc3_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/4.00 [00:00<?, ?it/s][%] :  25%|██████████████████████████████████████▌                                                                                                                   | 1.00/4.00 [00:00<00:00, 48.7it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc3_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc3_hits.Mikrocytos_mackini.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc3_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc3_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/4.00 [00:00<?, ?it/s][%] :  25%|██████████████████████████████████████▌                                                                                                                   | 1.00/4.00 [00:00<00:00, 97.8it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc3_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc3_hits.Paramikrocytos_canceri_2014.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc3_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc3_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/4.00 [00:00<?, ?it/s][%] :  25%|██████████████████████████████████████▊                                                                                                                    | 1.00/4.00 [00:00<00:00, 101it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc3_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc3_hits.Paramikrocytos_canceri_2018.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc3_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc3_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/9.00 [00:00<?, ?it/s][%] :  11%|█████████████████                                                                                                                                         | 1.00/9.00 [00:00<00:00, 20.3it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc4_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc4_hits.M6MM.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc4_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc4_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/9.00 [00:00<?, ?it/s][%] :  11%|█████████████████                                                                                                                                         | 1.00/9.00 [00:00<00:00, 70.5it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc4_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc4_hits.Marteilia_cochillia_DB6.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc4_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc4_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/9.00 [00:00<?, ?it/s][%] :  11%|█████████████████                                                                                                                                         | 1.00/9.00 [00:00<00:00, 53.4it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc4_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc4_hits.Marteilia_pararefringens_DB3.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc4_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc4_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/9.00 [00:00<?, ?it/s][%] :  11%|█████████████████                                                                                                                                         | 1.00/9.00 [00:00<00:00, 56.3it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc4_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc4_hits.Marteilia_pararefringens_DB4.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc4_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc4_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB4.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/9.00 [00:00<?, ?it/s][%] :  11%|█████████████████                                                                                                                                         | 1.00/9.00 [00:00<00:00, 46.0it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc4_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc4_hits.Marteilia_pararefringens_M18.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc4_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc4_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_M18.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/9.00 [00:00<?, ?it/s][%] :  11%|█████████████████                                                                                                                                         | 1.00/9.00 [00:00<00:00, 67.7it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc4_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc4_hits.Marteilia_pararefringens_S151.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc4_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc4_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_S151.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/9.00 [00:00<?, ?it/s][%] :  11%|█████████████████                                                                                                                                         | 1.00/9.00 [00:00<00:00, 50.0it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc4_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc4_hits.Mikrocytos_mackini.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc4_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc4_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Mikrocytos_mackini.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/9.00 [00:00<?, ?it/s][%] :  11%|█████████████████▏                                                                                                                                         | 1.00/9.00 [00:00<00:00, 104it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc4_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc4_hits.Paramikrocytos_canceri_2014.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc4_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc4_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2014.proteins.filtered.fna: No such file or directory
+[%] :   0%|                                                                                                                                                                 | 0.00/9.00 [00:00<?, ?it/s][%] :  11%|█████████████████▏                                                                                                                                         | 1.00/9.00 [00:00<00:00, 102it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc4_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc4_hits.Paramikrocytos_canceri_2018.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc4_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc4_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Paramikrocytos_canceri_2018.proteins.filtered.fna: No such file or directory
+[%] : 0.00it [00:00, ?it/s][%] : 1.00it [00:00, 20.2it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ASF1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ASF1_hits.M6MM.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ASF1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ASF1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM.proteins.filtered.fna: No such file or directory
+[%] : 0.00it [00:00, ?it/s][%] : 1.00it [00:00, 69.9it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ASF1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ASF1_hits.Marteilia_cochillia_DB6.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ASF1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ASF1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_cochillia_DB6.proteins.filtered.fna: No such file or directory
+[%] : 0.00it [00:00, ?it/s][%] : 1.00it [00:00, 54.7it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ASF1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.fa ...
+[+] Writing /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ASF1_hits.Marteilia_pararefringens_DB3.proteins.filtered.fna
+Can't open /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ASF1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.filtered.fna: No such file or directory.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ASF1_hits_hits./proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/Marteilia_pararefringens_DB3.proteins.filtered.fna: No such file or directory
+slurmstepd: error: *** JOB 6044215 ON s120 CANCELLED AT 2022-03-07T10:39:34 ***

@@ -1,0 +1,746 @@
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/8.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/8.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABCE_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ABT1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AGX_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ALG11_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/12.0 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/12.0 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap1m1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/9.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/9.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP1S2_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/12.0 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/12.0 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap2m1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/5.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/5.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ap3m1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/4.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/4.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP3S1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/13.0 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/13.0 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4M_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/8.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/8.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/AP4S1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/12.0 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/12.0 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/APBLC_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/32.0 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/32.0 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARL6_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/32.0 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/32.0 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP2_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/33.0 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/33.0 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ARP3_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/4.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/4.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc3_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/8.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/8.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/arpc4_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] : 0.00it [00:00, ?it/s][%] : 0.00it [00:00, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ASF1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/67.0 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/67.0 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/atad1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/4.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/4.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ATG2_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/2.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/2.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ATP6V0D1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/12.0 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/12.0 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/atp6v1a_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/9.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/9.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/atp6v1b_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/atp6v1c_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/3.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/3.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/atp6v1d_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/atp6v1e_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/30.0 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/30.0 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ATSAR2_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/67.0 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/67.0 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/bat1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/5.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/5.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/BMS1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/5.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/5.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/BRF1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/4.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/4.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/BYSL_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/6.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/6.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/C16orf80_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/6.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/6.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/C22orf28_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/13.0 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/13.0 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/calm_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/calr_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/2.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/2.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/capza1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/4.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/4.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/capzb_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/3.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/3.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/CC1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/CCDC113_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/CCDC37_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/CCDC40_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] : 0.00it [00:00, ?it/s][%] : 0.00it [00:00, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/CCDC65_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] : 0.00it [00:00, ?it/s][%] : 0.00it [00:00, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/CDK5_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/9.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/9.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/CHURC1FNTB_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/6.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/6.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/CLAT_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] : 0.00it [00:00, ?it/s][%] : 0.00it [00:00, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/clgn_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/13.0 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/13.0 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/COP-beta_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/COPE_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/2.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/2.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/COPG2_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/2.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/2.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/COPS6_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/4.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/4.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/COQ4_mito_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/8.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/8.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/crfg_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/5.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/5.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/CRNL1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/8.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/8.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/CS_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/CTP_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/CTU1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/7.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/7.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/DCAF13_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/DHSA1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/4.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/4.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/DIMT1L_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/7.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/7.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/DKC1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/11.0 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/11.0 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/dmc1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/3.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/3.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/DNAI2_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/2.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/2.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/DNAJ_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/3.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/3.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/DNAL1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/dpagt1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/2.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/2.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/DPH1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/9.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/9.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/DRG2_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/18.0 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/18.0 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/eef2_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/12.0 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/12.0 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/EFG-mito_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/14.0 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/14.0 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/EFTUD1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/12.0 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/12.0 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/eftud2_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/eif1a_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/EIF1B_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/6.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/6.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/EIF2A_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/5.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/5.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/eif2b_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/7.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/7.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/eif2g_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/2.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/2.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/EIF3B_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/3.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/3.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/EIF3C_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/4.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/4.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/EIF3I_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/63.0 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/63.0 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/EIF4A3_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/6.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/6.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/eif6_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/3.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/3.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/emg1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/19.0 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/19.0 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/erf3b_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/7.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/7.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/etf1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ETFA_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/5.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/5.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/FAM96B_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/5.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/5.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/FAM_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/6.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/6.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/fbl_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/4.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/4.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/FCF1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/GAS8_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/7.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/7.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/gdi2_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/GMPP3_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/8.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/8.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/gnb1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/11.0 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/11.0 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/gnb2L1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/11.0 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/11.0 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/GNL2_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/9.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/9.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/gpn1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/9.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/9.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/gpn2_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/9.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/9.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/gpn3_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/10.0 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/10.0 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/GRWD1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/HGO_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/5.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/5.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/hmt1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/24.0 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/24.0 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/HSP70C_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/23.0 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/23.0 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/hsp70mt_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/7.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/7.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/HSP75_mito_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/8.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/8.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/hsp90_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/19.0 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/19.0 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/HYOU1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/IFT46_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] : 0.00it [00:00, ?it/s][%] : 0.00it [00:00, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/IFT57_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/IFT88_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/9.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/9.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/IMP4_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/ino1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/1.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/IPO4_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/4.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/4.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/KARS_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/3.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/3.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/KDELR2_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/4.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/4.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/KPNB1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/7.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/7.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/KRR1_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/3.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/3.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/LRRC48_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/2.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/2.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/LSM4_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/7.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/7.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/MAK16_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/5.00 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/5.00 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/MAT1A_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/33.0 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/33.0 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/mcm2_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/32.0 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/32.0 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/mcm3_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/33.0 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/33.0 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/mcm4_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+[%] :   0%|                                                                                                                                                                 | 0.00/32.0 [00:00<?, ?it/s][%] :   0%|                                                                                                                                                                 | 0.00/32.0 [00:00<?, ?it/s]
+[+] Parsing list - /proj/uppstore2018069/Harshal/2_Dataset/Blast_Queries/mcm5_hits.txt
+[+] Filtering /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa ...
+[ERROR:0]	: File /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.fa does not exist.
+cat: /proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits.proteins.filtered.fna: No such file or directory
+BLAST Database error: No alias or index file found for protein database [/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes/M6MM_hits] in search path [/crex/proj/uppstore2018069/Harshal/2_Scripts:/crex/proj/uppstore2018069/Harshal/2_Dataset/Annotated_Genomes:]
+slurmstepd: error: *** JOB 6029756 ON s39 CANCELLED AT 2022-03-04T13:31:51 ***
