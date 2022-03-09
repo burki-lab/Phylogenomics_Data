@@ -18,9 +18,9 @@ Creates a Blast database for each of the newly annotated Rhizarian genomes (eg: 
 2. The 2nd column from the Blast result is cut and stored in a separate .txt file as this contains the sequence ID for the Blast hit on the reference. This list is then sorted and only the unique entries are saved to avoid double results.
 3. Similar to Stage 1 Script 2, the blobtools seqfilter option is used again to extract the Blast hits from the reference genomes. This part also adds the name of the reference genome the Blast hit was found in to the header on the FASTA file so it is easy to interpret when the phylogenetic trees have been created.
 
-### Scripts 3: 3_Paralogs (1_Extract_Headers.sh  2_Extract_Sequences.sh  3_Merge.sh  4_Untagged_paralogs.sh  Rename.sh)
-1. 1_Extract_Headers.sh  
-2. 2_Extract_Sequences.sh  
+### Script 3: 3_Paralogs (1_Extract_Headers.sh  2_Extract_Sequences.sh  3_Merge.sh  4_Untagged_paralogs.sh  Rename.sh)
+1. 1_Extract_Headers.sh - As with Stage 1 Script 1, it greps "Paralog" in a case insensitive manner using the '-i' option with grep. Created a .txt file for each gene and has the Fasta headers for 'Paralogs' without the '>' symbol.
+2. 2_Extract_Sequences.sh - Uses blobtools seqfilter and the above created .txt files to extract sequences from the Paralog dataset. Creates a .filtered.fna file for each gene.
 3. 3_Merge.sh  
-4. 4_Untagged_paralogs.sh  
-5. Rename.sh
+4. 4_Untagged_paralogs.sh - This find the untagged paralogs from the dataset using a regex pattern with "_'_'word_-" where the word depends on the gene name.
+5. Rename.sh - This script is essential after sequence extraction and before merging.
