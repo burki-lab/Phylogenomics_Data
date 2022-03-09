@@ -6,7 +6,7 @@
 Greps "Rhizaria" from all the genes in Max's original dataset and extracts the whole FASTA header containing "Rhizaria" and removes the '>' symbol from the header to accomodate blobtools in the next step. Output is a .txt file for each gene.
 
 ### Script 2: 2_Extract_Sequences.sh
-Takes the list (.txt file) created by Script 1 as a parameter and extracts those sequences from the original dataset.
+Takes the list (.txt file) created by Script 1 as a parameter and extracts those sequences from the original dataset using blobtools and the seqfilter module.
 Output format is ....filtered.fna for each gene present in the dataset.
 
 ## Stage 2 (2_Scripts_Dataset)
