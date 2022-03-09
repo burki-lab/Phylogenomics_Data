@@ -11,7 +11,7 @@ Output format is ....filtered.fna for each gene present in the dataset.
 
 ## Stage 2 (2_Scripts_Dataset)
 ### Script 1: 1_Blast_DB.sh
-Creates a Blast database for each of the newly annotated Rhizarian genomes (eg: Marteilia pararefringens, Marteilia cochillia etc)\
+Creates a Blast database for each of the newly annotated Rhizarian genomes (eg: Marteilia pararefringens, Marteilia cochillia etc)
 
 ### Script 2: 2_Blast_hits_curation.sh
 1. Uses the .filtered.fna files as a query for Blast against the annotated reference genomes created by Stage 2 Script 1. Blast outfmt 6 with e-value 1e-20. 
