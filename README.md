@@ -31,5 +31,5 @@ Creates a Blast database for each of the newly annotated Rhizarian genomes (eg: 
 3. Rename.sh - Renames the *XYZ*.filtered.fna files to *XYZ*.prokaryotes.fa with the gene name as the prefix.
 
 ### Script 5: 5_Merge folder (1_Rename_hits.sh  2_Merge.sh)
-1. 1_Rename_hits.sh - Renames Blast hits from Script 2 from *XYZ*_hits.sh to *XYZ*.hits.fa
+1. 1_Rename_hits.sh - Renames Blast hits from Script 2 from *XYZ*_hits.hits.fa to *XYZ*.hits.fa
 2. 2_Merge.sh - Merges all Prokaryote, Paralog and Blast hits into 1 file for each gene (called *XYZ*.merged.fa)
