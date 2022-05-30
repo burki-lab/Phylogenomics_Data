@@ -19,11 +19,10 @@ Creates a Blast database for each of the newly annotated Rhizarian genomes (eg: 
 3. Similar to Stage 1 Script 2, the blobtools seqfilter module is used again to extract the Blast hits from the reference genomes. This part also adds the name of the reference genome the Blast hit was found in to the header on the FASTA file so it is easy to interpret when the phylogenetic trees have been created.
 
 ### Script 3: 3_Paralogs folder (1_Extract_Headers.sh  2_Extract_Sequences.sh  3_Merge.sh  4_Untagged_paralogs.sh  Rename.sh)
-1. 1_Extract_Headers.sh - As with Stage 1 Script 1, it greps "Paralog" in a case insensitive manner using the '-i' option with grep. Creates an *XYZ*.txt file for each gene and has the Fasta headers for 'Paralogs' without the '>' symbol.
+1. 1_Extract_Headers.sh - As with Stage 1 Script 1, it finds the untagged and tagged paralogs and saves these to a .txt file
 2. 2_Extract_Sequences.sh - Uses blobtools seqfilter and the above created .txt files to extract sequences from the Paralog dataset. Creates a *XYZ*.filtered.fna file for each gene.
 3. 3_Merge.sh - This script merges the untagged and tagged paralogs created by 2_Extract_Sequences.sh, 2_Extract_Sequences.sh and Rename.sh
-4. 4_Untagged_paralogs.sh - This find the untagged paralogs from the dataset using a regex pattern with "(underscore)_word_-(dash)" where the word depends on the gene name.
-5. Rename.sh - This script is essential after sequence extraction and before merging. It renames the .filtered.fna files to either .paralogs.fa or .fa so that the output can be merged together with 3_Merge.sh
+4. Rename.sh - This script is essential after sequence extraction and before merging. It renames the .filtered.fna files to either .paralogs.fa or .fa so that the output can be merged together with 3_Merge.sh
 
 ### Script 4: 4_Prokaryotes folder (1_Extract_Headers.sh  2_Extract_Sequences.sh  Rename.sh)
 1. 1_Extract_Headers.sh - greps "Prokaryota" with the '-i' option and creates an *XYZ*.txt file with a list of all found entries with the Fasta sequence header and without the '>' symbol.
