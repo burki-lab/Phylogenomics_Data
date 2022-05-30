@@ -1,3 +1,5 @@
+#The input of this file is the results from executing https://github.com/nylander/catfasta2phyml over all the FASTA files
+
 #!/bin/bash --login
 
 #SBATCH -A snic2021-5-302
