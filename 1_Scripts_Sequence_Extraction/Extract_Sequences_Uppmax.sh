@@ -1,3 +1,5 @@
+#Script to submit a batch job to take text a list as input and extract the sequences to a file
+
 #!/bin/bash 
 #SBATCH -A snic2021-5-302
 #SBATCH -M snowy
@@ -8,8 +10,6 @@
 #SBATCH --mail-type=ALL 
 #SBATCH -J extract_sequences
 
-
-#v.2 is made to use several hits files I changed a bit the ending of the blob file
 
 module load bioinfo-tools
 module load blobtools/1.1.1 

@@ -1,4 +1,4 @@
-#This script takes in the FASTA files as input, then uses the list created by the Extract_Headers script, and creates a new Filtered FNA file with those headers and sequences
+#This script takes in the FASTA files as input, then uses the list created by the Extract_Headers script, and creates a new Filtered FNA file with those headers and sequences. Blobtools does not accept the '>' character
 
 module load bioinfo-tools 
 module load blobtools/1.1.1

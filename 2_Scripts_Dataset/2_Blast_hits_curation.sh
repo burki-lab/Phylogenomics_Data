@@ -1,3 +1,5 @@
+#Blasts queries against created blast databases, runs filters and extracts the hit sequences to a file. Also adds Species it was found in and predicted gene name to the FASTA header
+
 #!/bin/bash --login
 
 #SBATCH -A snic2021-5-302

@@ -1,4 +1,4 @@
-#Removed duplicates from the files and stores them in a text file
+#Removes duplicates from the files and stores them in a text file
 
 module load bioinfo-tools
 module load SeqKit/0.15.0

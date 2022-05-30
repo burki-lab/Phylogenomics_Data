@@ -1,3 +1,5 @@
+#Creates blast database for each of the sequenced genomes
+
 module load bioinfo-tools
 module load blast/2.12.0+
 
