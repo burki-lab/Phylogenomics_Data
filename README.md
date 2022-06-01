@@ -1,7 +1,7 @@
 # Phylogenomics_Data
 # Contains scripts for workflow for dataset creation, curation, single gene phylogenies as well as phylogenomics.
 
-##Please read to follow a reproducible workflow
+## Please read to follow a reproducible workflow
 
 ## 1_Scripts_Sequence_Extraction
 ### 1_Extract_Headers.sh
