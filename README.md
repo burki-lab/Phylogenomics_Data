@@ -1,6 +1,8 @@
 # Phylogenomics_Data
 # Contains scripts for workflow for dataset creation, curation, single gene phylogenies as well as phylogenomics.
 
+##Please read to follow a reproducible workflow
+
 ## 1_Scripts_Sequence_Extraction
 ### 1_Extract_Headers.sh
 Greps "Rhizaria" from all the genes from the dataset and extracts the whole FASTA header containing "Rhizaria" and removes the '>' symbol from the header to accomodate blobtools in the next step. Output is an *XYZ*.txt file with each gene name as the prefix before the extension.
