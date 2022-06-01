@@ -54,5 +54,5 @@ Creates a Blast database for each of the newly annotated Rhizarian genomes (eg: 
 9. 9_Trees.sh: Tree-making with IQTree
 
 ## 5_Scripts_Supermatrix
-1. Use catfasta2phyml (https://github.com/nylander/catfasta2phyml) to concatenate trimmed and aligned FASTA files.
+1. Use catfasta2phyml (https://github.com/nylander/catfasta2phyml) with -c -v and -f options to concatenate trimmed and aligned FASTA files.
 2.  tree.sh: Creates a supermatrix tree using the output from catfasta2phyml.
