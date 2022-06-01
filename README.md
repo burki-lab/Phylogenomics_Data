@@ -32,3 +32,10 @@ Creates a Blast database for each of the newly annotated Rhizarian genomes (eg: 
 ### 5_Merge folder (1_Rename_hits.sh  2_Merge.sh)
 1. 1_Rename_hits.sh - Renames Blast hits from Script 2 from *XYZ*_hits.hits.fa to *XYZ*.hits.fa
 2. 2_Merge.sh - Merges all Prokaryote, Paralog and Blast hits into 1 file for each gene (called *XYZ*.merged.fa)
+
+## 3_Scripts_Trees
+1. 1_Remove_duplicates.sh: Removes duplicates created during merging of the files and stores the duplicates to .txt files based on the gene name
+2. 2_Batch_Tree.sh: Batch executes the tree-making script over all the FASTA files in a directory
+3. 3_Trees.sh: Creates trees with specified options, used by 2_Batch_Tree to batch execute multiple trees at a time
+4. color_treesMRO.Para.pl: Perl script to colour taxa in Nexus Trees. !!!Tree-making is in Newick format, convert using FigTree to Nexus!!!
+5. script.pl: Loops over .treefile in a directory and colours all the trees by calling color_treesMRO.Para.pl
