@@ -39,3 +39,14 @@ Creates a Blast database for each of the newly annotated Rhizarian genomes (eg: 
 3. 3_Trees.sh: Creates trees with specified options, used by 2_Batch_Tree to batch execute multiple trees at a time
 4. color_treesMRO.Para.pl: Perl script to colour taxa in Nexus Trees. !!!Tree-making is in Newick format, convert using FigTree to Nexus!!!
 5. script.pl: Loops over .treefile in a directory and colours all the trees by calling color_treesMRO.Para.pl
+
+## 4_Scripts_Subset_Data
+1. 1_Blast.sh: Blasts query sequences to created Blast databases and saves results to .txt files per gene
+2. 2_Process.sh: Filters Blast results using bitscore and match length
+3. 3_Extract.sh: Extracts filtered blast hit sequences with blobtools
+4. 4_Rename_hits.sh: Renames Blast hits to .hits.fa
+5. 5_Merge.sh: Merges paralogs, prokaryotes, Blast hits and original dataset
+6. 6_Remove_duplicates.sh: Removed duplicates from the merged files
+7. 7_Align.sh: Aligns the merged final files with MAFFT
+8. 8_Batch_Tree.sh: Batch script to execute tree-making for all aligned files
+9. 9_Trees.sh: Tree-making with IQTree
